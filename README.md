@@ -6,4 +6,9 @@ Take notes in the Keeper Notes app
 3. Delete then by clicking on the delete icon.
 
 
-#### Live Preview
+![image](https://user-images.githubusercontent.com/72697074/120886832-010f9f00-c601-11eb-81c7-8fa6bdfbd37f.png)
+
+
+#### *Live Preview*
+
+Website is hosted at [Keeper Notes](https://tess-vanta.github.io/Keeper_Notes/).
